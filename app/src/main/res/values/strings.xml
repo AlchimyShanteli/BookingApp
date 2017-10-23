@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookingApp</string>
+    <string name="btn_registration">Registration</string>
+    <string name="btn_check_registration">Check Registration</string>
+    <string name="txt_view_welcome">Welcome to simple registration</string>
+    <string name="txt_view_join">Join Now</string>
+    <string name="login_txt">Login</string>
+    <string name="password_txt">Password</string>
+</resources>
